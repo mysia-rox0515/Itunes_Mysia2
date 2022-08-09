@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Itunes_Mysia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="itunes">itunes</string>
+    <string name="classic_music_tab">Classic Music Tab</string>
+    <string name="pop_music_tab">Pop Music Tab</string>
+    <string name="rock_music_tab">Rock Music Tab</string>
+</resources>
