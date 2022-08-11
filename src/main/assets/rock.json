@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "artistName":"Journey",
+      "trackName":"Don't Stop Believin'",
+      "previewUrl":"https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e4/6c/ad/e46cad13-317a-3074-8d0f-a41af0bb2437/mzaf_5207796602846861401.plus.aac.p.m4a",
+      "artworkUrl60":"https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/cd/43/e7/cd43e76f-4ff1-f700-d84f-86eeea7fa5bb/828768588925.jpg/60x60bb.jpg",
+      "trackPrice":1.29
+    },
+    {
+      "artistName": "Train",
+      "trackName": "Hey, Soul Sister",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c5/a9/e3/c5a9e3b4-7998-5a8e-7b86-d2e5e476b1de/mzaf_6639715585215446156.plus.aac.p.m4a",
+      "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/1d/da/9e/1dda9e42-4856-110f-4d0f-41017cd5b986/886447325964.jpg/60x60bb.jpg",
+      "trackPrice": 1.29
+    },
+    {
+      "artistName": "Imagine Dragons",
+      "trackName": "Radioactive",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/38/62/11/38621184-23fc-a18b-250e-3e254389a3d9/mzaf_13092310984698905829.plus.aac.p.m4a",
+      "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/13/39/7d/13397dfc-66cd-0ed7-41a3-4a872c250e2d/12UMGIM46901.rgb.jpg/60x60bb.jpg",
+      "trackPrice": 1.29
+    },
+    {
+      "artistName": "LMFAO",
+      "trackName": "Party Rock Anthem (feat. Lauren Bennett & GoonRock)",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/07/74/bf/0774bf74-f587-9fd2-b9b4-9add44f09ed6/mzaf_1248219860472342364.plus.aac.p.m4a",
+      "artworkUrl60": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/21/d9/07/21d9076e-a52c-4f94-5176-011a9ec878e7/11UMGIM14032.rgb.jpg/60x60bb.jpg",
+      "trackPrice": 1.29
+    },
+    {
+      "artistName": "Gotye",
+      "collectionName": "Making Mirrors (Deluxe Version)",
+      "trackName": "Somebody That I Used to Know (feat. Kimbra)",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a5/ff/2f/a5ff2fdd-11b3-698f-67e6-f49cad28df6e/mzaf_15135349959596902883.plus.aac.p.m4a",
+      "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/32/41/fe/3241fe70-3529-2060-7212-48cd0cccbe6e/11UMGIM19347.rgb.jpg/60x60bb.jpg",
+      "trackPrice": 1.29
+    }
+  ]
+}
