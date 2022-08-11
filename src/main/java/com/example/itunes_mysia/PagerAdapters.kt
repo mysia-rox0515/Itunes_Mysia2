@@ -1,4 +1,4 @@
-package com.example.itunes_mysia.model
+package com.example.itunes_mysia
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
